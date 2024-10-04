@@ -17,7 +17,9 @@ The only way to ensure the authenticity of a decoded letter is that It ends with
 Good luck!
 
 Bernard Law Montgomery
-<br><br>
+
+<be>
+
 Note: Although all the people and events have been tried to look real, none of them are real and were created with the help of ChatGPT.
 
 To aid in your quest to decipher the intercepted letter, we recommend using the online Enigma machine simulation available at [Cryptii: Enigma Machine](https://cryptii.com/pipes/enigma-machine). This user-friendly tool allows you to experiment with various Enigma settings and provides an efficient way to test combinations as you work to unlock the secrets of the enemy’s communication. Remember, your ingenuity and resourcefulness are key to uncovering the truth and safeguarding the lives of many.

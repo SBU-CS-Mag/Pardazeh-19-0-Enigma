@@ -1,4 +1,4 @@
-##Enigma
+## Enigma
 
 I am writing to bring to your immediate attention a critical situation that has arisen from our recent intelligence operations. Last night, we intercepted a suspicious communication from enemy forces that contains potentially vital information regarding an imminent operation.
 

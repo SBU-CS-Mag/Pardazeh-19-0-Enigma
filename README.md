@@ -1,4 +1,4 @@
-## Enigma
+## The Enigma Challenge
 
 I'm writing to bring to your immediate attention, As the sun dipped below the horizon last night, casting long shadows over the war-torn landscape, we launched a covert operation deep within enemy territory. The atmosphere was thick with tension, every heartbeat echoing the stakes of our mission. We had received chilling intel it seems the enemy is mobilizing for a significant tactical move—whispers of a looming Nazi offensive targeting an unknown city, but critical details eluded us. The time and location of the attack remained shrouded in mystery, and we were racing against the clock.
 
@@ -14,10 +14,12 @@ You are asked to solve the puzzles of this number of Pardazeh Journal to find co
 
 The only way to ensure the authenticity of a decoded letter is that It ends with "Heil Hitler!".
 
-Will you rise to the challenge? The world is watching, and the lives of countless innocents depend on your ingenuity. The clock is ticking—let the decoding begin!
-
 Good luck!
 
 Bernard Law Montgomery
 
 Note: Although all the people and events have been tried to look real, none of them are real and were created with the help of ChatGPT.
+
+To aid in your quest to decipher the intercepted letter, we recommend using the online Enigma machine simulation available at [Cryptii: Enigma Machine](https://cryptii.com/pipes/enigma-machine). This user-friendly tool allows you to experiment with various Enigma settings and provides an efficient way to test combinations as you work to unlock the secrets of the enemy’s communication. Remember, your ingenuity and resourcefulness are key to uncovering the truth and safeguarding the lives of many.
+
+Will you rise to the challenge? The world is watching, and the lives of countless innocents depend on your ingenuity. The clock is ticking—let the decoding begin!

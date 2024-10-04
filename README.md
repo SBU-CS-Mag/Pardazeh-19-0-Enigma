@@ -18,7 +18,7 @@ Good luck!
 
 Bernard Law Montgomery
 
-<be>
+<br>
 
 Note: Although all the people and events have been tried to look real, none of them are real and were created with the help of ChatGPT.
 

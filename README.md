@@ -1,5 +1,4 @@
 ## The Enigma Challenge
-
 I'm writing to bring to your immediate attention, As the sun dipped below the horizon last night, casting long shadows over the war-torn landscape, we launched a covert operation deep within enemy territory. The atmosphere was thick with tension, every heartbeat echoing the stakes of our mission. We had received chilling intel it seems the enemy is mobilizing for a significant tactical move—whispers of a looming Nazi offensive targeting an unknown city, but critical details eluded us. The time and location of the attack remained shrouded in mystery, and we were racing against the clock.
 
 Tragically, the night revealed the true cost of our resolve. Our team faced fierce opposition, and amidst the chaos, we lost brave souls who believed in the fight for freedom. Their sacrifice weighs heavily on our hearts, urging us forward in our pursuit of the truth. We must not let their courage be in vain.
@@ -7,6 +6,8 @@ Tragically, the night revealed the true cost of our resolve. Our team faced fier
 In the aftermath of the harrowing operation, we managed to intercept a vital piece of intelligence: an encrypted letter bound for high-ranking Nazi officials. This communication appears to have been encoded using the Enigma M3 model, a formidable tool of deception used by the enemy to shroud their plans in secrecy.
 
 Now, we find ourselves at a crossroads. The intercepted letter contains the very details we need to countermeasures and thwart the impending attack, but the encryption holds us at bay. Our analysts believe that inside the letter lies the key to deciphering the time and location of the enemy’s operation, yet without the correct settings of the Enigma machine, it remains locked away, veiled in shadows.
+
+![Enigma](Enigma.jpg)
 
 Now, we turn to you, our trusted students. Your intellect and resilience are our greatest assets. We need your help to decode this intercepted letter. Hidden within are the Enigma settings that will reveal the enemy’s dark intentions and guide us in our response and may give us a strategic advantage.
 
